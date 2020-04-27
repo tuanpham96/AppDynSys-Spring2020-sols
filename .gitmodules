@@ -1,3 +1,0 @@
-[submodule "dependencies/external/export_fig"]
-	path = dependencies/external/export_fig
-	url = https://github.com/altmany/export_fig
