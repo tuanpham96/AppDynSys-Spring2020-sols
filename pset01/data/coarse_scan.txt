@@ -1,0 +1,2 @@
+Lower fit: \alpha =    0.32268 \\omega^2 + 1.0641 \\omega + 0.13802 
+Upper fit: \alpha =    0.0046534 \\omega^2 + 1.2249 \\omega + 1.7753 
