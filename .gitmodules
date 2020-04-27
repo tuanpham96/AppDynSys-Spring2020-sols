@@ -1,6 +1,3 @@
-[submodule "pset01/overleaf"]
-	path = pset01/overleaf
-	url = https://git.overleaf.com/5e8fc6eaf4bb05000113189b
 [submodule "pset02/overleaf"]
 	path = pset02/overleaf
 	url = https://git.overleaf.com/5e9f719246ac4d00017a7015
