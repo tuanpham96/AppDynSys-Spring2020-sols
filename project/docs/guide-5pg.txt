@@ -1,0 +1,11 @@
+The peer review is structured as follows, similar to a referee report, so you know that too:
+
+First paragraph states what the project is about from a high level, not a detailed one. This is to make clear to the author of the project report that you got their main messages.
+
+Second paragraph is about what is interesting about the investigation and topic. Hopefully you find something interesting or challenging about the subject! State what that is.
+
+Third paragraph is about what is confusing, challenging, or difficult with reading the project report. This will help the other student know where to put efforts into improving their presentation.
+
+Fourth paragraph is about what you are curious about. This might suggest some further investigation to the other student. And is a good exercise in asking questions about research topics.
+
+Report ends with any minor concrete suggestions or points, if you have some. This can be things like ``Label figures" or ``This quantity wasn't defined" or ``What numerical scheme did you use", etc.
